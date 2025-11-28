@@ -8,7 +8,6 @@ Thank you for your interest in contributing to HytaleModding, here are some repo
 
 - HytaleWebsite: https://github.com/HytaleModding/site
 - Discord Bot: https://github.com/HytaleModding/robot
-- HyMods Website (external): https://github.com/HytaleModding/HyMods
 
 <!--
 TBD:
