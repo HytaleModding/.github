@@ -4,6 +4,12 @@ We are a community that wants to support new and experienced mod developers to m
 
 Transparency is a core value of HytaleModding, and we've open sourced **all** of our code on this organization. We also allow members from our community to showcase and host their code on our organization. 
 
+### Help us reach more audience!
+
+Help our goal and mission by translating the HytaleModding documentation & guides into your language, allowing users to read in their native language! 
+
+[Click Here](https://crowdin.com/project/hytalemodding) to start! More information is available on the [Discord Server](https://discord.gg/GJfSyBkFwF).
+
 ### Get Involved
 
 We'd love to have you involved in the community and contributing to the code, here are some repositories we're accepting contributions to:
