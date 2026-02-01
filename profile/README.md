@@ -1,14 +1,13 @@
+
+<p align="center"><a href="https://hytalemodding.dev"><img src="https://cdn.internal.hytalemodding.dev/assets/HytaleLogo_DiscordBannerV6.png" width="600"></a></p>
+
 ## Hey! Welcome to HytaleModding
 
 We are a community that wants to support new and experienced mod developers to mod Hytale. We provide free resources, guides and documentation for Hytale. 
 
 Transparency is a core value of HytaleModding, and we've open sourced **all** of our code on this organization. We also allow members from our community to showcase and host their code on our organization. 
 
-### Help us reach more audience!
-
-Help our goal and mission by translating the HytaleModding documentation & guides into your language, allowing users to read in their native language! 
-
-[Click Here](https://crowdin.com/project/hytalemodding) to start! More information is available on the [Discord Server](https://discord.gg/GJfSyBkFwF).
+You can join our discord with over 8,000 members: https://discord.gg/hytalemodding
 
 ### Get Involved
 
