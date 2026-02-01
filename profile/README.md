@@ -1,4 +1,3 @@
-
 <p align="center"><a href="https://hytalemodding.dev"><img src="https://cdn.internal.hytalemodding.dev/assets/HytaleLogo_DiscordBannerV6.png" width="600"></a></p>
 
 ## Hey! Welcome to HytaleModding
@@ -13,8 +12,12 @@ You can join our discord with over 8,000 members: https://discord.gg/hytalemoddi
 
 We'd love to have you involved in the community and contributing to the code, here are some repositories we're accepting contributions to:
 
-- HytaleWebsite: https://github.com/HytaleModding/site
+- Website: https://github.com/HytaleModding/site
 - Discord Bot: https://github.com/HytaleModding/robot
+
+### Donate
+
+You can donate to us on [OpenCollective](https://opencollective.com/HytaleModding), all donations go a long way in supporting us!
 
 <!--
 TBD:
