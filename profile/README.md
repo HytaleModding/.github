@@ -4,9 +4,7 @@
 
 We are a community that wants to support new and experienced mod developers to mod Hytale. We provide free resources, guides and documentation for Hytale. 
 
-Transparency is a core value of HytaleModding, and we've open sourced **all** of our code on this organization. We also allow members from our community to showcase and host their code on our organization. 
-
-You can join our discord with over 8,000 members: https://discord.gg/hytalemodding
+You can join our discord with over 9,800 members: https://discord.gg/hytalemodding
 
 ### Get Involved
 
@@ -14,17 +12,4 @@ We'd love to have you involved in the community and contributing to the code, he
 
 - Website: https://github.com/HytaleModding/site
 - Discord Bot: https://github.com/HytaleModding/robot
-
-### Donate
-
-You can donate to us on [OpenCollective](https://opencollective.com/HytaleModding), all donations go a long way in supporting us!
-
-<!--
-TBD:
-
-- documentation contribution, create a page on our docs to show people how to contribute or something
-- discord link
-- banner
-- translation contribution
-
--->
+- Translate our website: https://translate.hytalemodding.dev
