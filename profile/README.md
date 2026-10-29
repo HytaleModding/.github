@@ -4,7 +4,7 @@
 
 We are a community that wants to support new and experienced mod developers to mod Hytale. We provide free resources, guides and documentation for Hytale. 
 
-You can join our discord with over 9,800 members: https://discord.gg/hytalemodding
+You can join our discord with over 10,000 members: https://discord.gg/hytalemodding
 
 ### Get Involved
 
